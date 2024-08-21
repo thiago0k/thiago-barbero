@@ -241,7 +241,7 @@ function SobreMi( {cambiar} ) {
 
     <div className="order-2 lg:order-2 lg:hidden">
       <div className="thiagoelias border-solid flex justify-center border-gray-600 w-60 rounded-2xl p-1 m-auto my-4">
-        <img className="w-[100%] h-56 object-cover rounded-xl" src="src/iconos/thiago.jpg" alt="Thiago" />
+        <img className="w-[100%] h-56 object-cover rounded-xl" src="c:\Users\thiago\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\FCA02D37F2E8AFC58148DFDD93D0FAF3\Imagen de WhatsApp 2024-08-12 a las 16.56.04_432e958a.jpg" alt="Thiago" />
       </div>
     </div>
 
