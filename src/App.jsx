@@ -65,7 +65,7 @@ export default function App() {
               <div className="parte-1">
                 <img className="image-logo" src="src/iconos/thiago.jpg" alt="logo" />
                 <button className="btn-disponible">
-                  <a className="text-white" href="mailto:tiagoelias289@gmail.com">Disponible para </a>
+                  <a className="text-white" href="mailto:tiagoelias289@gmail.com">Disponible</a>
                 </button>
               </div>
               <li className="item-presentacion uno">
