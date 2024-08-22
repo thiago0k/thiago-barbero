@@ -47,7 +47,7 @@ export default function App() {
                   className={`cursor-pointer itemsss ${selectedIndex === index ? 'text-yellow-500' : 'text-white'}`}
                   href={index < 2 ? `#seccion${index + 1}` : undefined}
                 >
-                  {item}
+                  {item};
                 </a>
               </li>
             ))}
